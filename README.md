@@ -10,3 +10,4 @@ O projeto também me permitiu aplicar conceitos de análise de dados, visualiza�
 como ferramenta de apoio durante o desenvolvimento.
 
 Mais um projeto concluído na minha jornada de aprendizado em Dados e Inteligência Artificial.
+https://tatacabral.github.io/dashboard_porsche_sales/
