@@ -1,13 +1,11 @@
-Dashboard de Vendas Porsche
+# Projetos de Análise de Dados
 
-Projeto desenvolvido durante meu curso de AI Reports com Excel, GPT Agents e Claude Code, no qual explorei o uso da Inteligência Artificial 
-para apoiar o tratamento, organização e análise de dados no Excel e na criação de um dashboard interativo.
+Bem vindos ao meu repositório de projetos de análise de dados!
 
-A partir de uma base de dados de vendas de veículos Porsche, realizei a sanitização dos dados e desenvolvi indicadores e visualizações 
-para responder a perguntas de negócio.
+Este repositório de projetos ainda está em fase de construção, pretendo compartilhar aqui os projetos que venho trabalhando para aprimorar minhas habilidades em análise de dados.
 
-O projeto também me permitiu aplicar conceitos de análise de dados, visualização, KPIs e storytelling com dados, utilizando a IA 
-como ferramenta de apoio durante o desenvolvimento.
+Irei abordar diferentes temas e problemas utilizando principalmente as ferramentas Python, SQL, Power BI e Excel.
 
-Mais um projeto concluído na minha jornada de aprendizado em Dados e Inteligência Artificial.
-https://tatacabral.github.io/dashboard_porsche_sales/
+Sinta-se à vontade para tirar dúvidas, compartilhar ideias, sugestões ou melhorias. 
+
+<a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
