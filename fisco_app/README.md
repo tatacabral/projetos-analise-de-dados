@@ -6,7 +6,7 @@ O projeto combina organização de dados, fórmulas, validações, navegação e
 
 ⚠️ *Aviso: este projeto possui finalidade exclusivamente educacional. A simulação apresentada não substitui a declaração oficial do Imposto de Renda nem representa um cálculo fiscal oficial.*
 ________________________________________
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 Criar uma ferramenta em Excel capaz de centralizar informações financeiras relevantes para a organização do Imposto de Renda, facilitando o preenchimento e permitindo uma simulação estimada do imposto com base nos dados informados pelo usuário.
 O projeto foi desenvolvido com foco não apenas nos cálculos, mas também na experiência de uso, utilizando elementos visuais e navegação por botões para proporcionar uma interface mais próxima de um aplicativo.
 ________________________________________
@@ -52,6 +52,7 @@ sem a sensação de estar alternando entre diferentes planilhas. A proposta é f
 
 <img src="Imagens\Titular.png" >
 ________________________________________
+
 ## Tecnologias e recursos
 •	Microsoft Excel
 •	Tabelas estruturadas
@@ -68,31 +69,31 @@ SOMASE • SE • E • PROCV • SEERRO • SOMA
 ________________________________________
 ## Aprendizados
 Durante o desenvolvimento deste projeto, foram praticados conceitos relacionados a:
-•	Estruturação de uma aplicação dentro do Excel
-•	Organização de informações financeiras
-•	Utilização de tabelas estruturadas
-•	Criação de fórmulas compostas
-•	Aplicação de regras condicionais
-•	Busca de informações em tabelas auxiliares
-•	Tratamento de erros
-•	Criação de interfaces mais intuitivas no Excel
-•	Navegação entre diferentes áreas de uma planilha
-•	Utilização de IA como apoio ao desenvolvimento de soluções no Excel
+* Estruturação de uma aplicação dentro do Excel
+* Organização de informações financeiras
+* Utilização de tabelas estruturadas
+* Criação de fórmulas compostas
+* Aplicação de regras condicionais
+* Busca de informações em tabelas auxiliares
+* Tratamento de erros
+* Criação de interfaces mais intuitivas no Excel
+* Navegação entre diferentes áreas de uma planilha
+* Utilização de IA como apoio ao desenvolvimento de soluções no Excel
 Além da parte técnica, o projeto ajudou a desenvolver uma visão mais voltada para experiência do usuário e resolução de problemas utilizando dados.
 ________________________________________
 
 ## Possíveis melhorias futuras
 Algumas funcionalidades que poderiam ser incorporadas em versões futuras:
-•	 Inclusão de gráficos e indicadores financeiros
-•	 Dashboard com resumo anual
-•	 Controle de despesas dedutíveis
-•	 Inclusão de outras categorias de rendimentos
-•	 Expansão da base de instituições financeiras
-•	 Validação mais completa dos dados inseridos
-•	 Automatização da importação de informações
-•	 Comparação entre diferentes cenários de declaração
-•	 Inclusão de um guia de preenchimento para o usuário
-•	 Aprimoramento da interface e experiência de navegação
+* Inclusão de gráficos e indicadores financeiros
+* Dashboard com resumo anual
+* Controle de despesas dedutíveis
+* Inclusão de outras categorias de rendimentos
+* Expansão da base de instituições financeiras
+* Validação mais completa dos dados inseridos
+* Automatização da importação de informações
+* Comparação entre diferentes cenários de declaração
+* Inclusão de um guia de preenchimento para o usuário
+* Aprimoramento da interface e experiência de navegação
 ________________________________________
 
 ### Contexto do projeto
@@ -105,4 +106,5 @@ Aplicação prática / Projeto de portfólio
 Tema:
 Organização financeira e simulação de Imposto de Renda
 
-Linkedin: https://www.linkedin.com/in/thais-cabral-489182198/
+<a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
+ 
