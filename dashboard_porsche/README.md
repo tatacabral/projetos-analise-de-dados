@@ -9,5 +9,3 @@ A partir de uma base de dados de vendas de veículos Porsche, realizei a sanitiz
 O projeto também me permitiu aplicar conceitos de análise de dados, visualização, KPIs e storytelling com dados, utilizando a IA como ferramenta de apoio durante o desenvolvimento.
 
 Mais um projeto concluído na minha jornada de aprendizado em Dados e Inteligência Artificial. 
-
-Link para acessar o Dashboard: https://tatacabral.github.io/dashboard_porsche_sales/
