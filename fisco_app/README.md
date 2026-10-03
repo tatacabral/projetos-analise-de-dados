@@ -104,7 +104,7 @@ Microsoft Excel
 Tipo de projeto:
 Aplicação prática / Projeto de portfólio
 Tema:
-Organização financeira e simulação de Imposto de Renda
+Organização financeira e simulação de Imposto de Renda.
 
 <a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
  
