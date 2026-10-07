@@ -88,5 +88,4 @@ O desenvolvimento deste projeto permitiu praticar conceitos importantes de Excel
 Este projeto foi desenvolvido exclusivamente para fins de estudo e demonstração de conhecimentos em Excel.
 Os percentuais de distribuição, taxas de rendimento e demais parâmetros utilizados na ferramenta são hipotéticos e não devem ser interpretados como recomendação de investimento.
 
-Contato Linkedin: https://www.linkedin.com/in/thais-cabral-489182198/
 <a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
