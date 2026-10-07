@@ -9,3 +9,5 @@ Irei abordar diferentes temas e problemas utilizando principalmente as ferrament
 Sinta-se à vontade para tirar dúvidas, compartilhar ideias, sugestões ou melhorias. 
 
 <a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
+
+<a href="dashboard_porsche/index.html">Projeto Dashboard Porsche</a>
