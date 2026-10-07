@@ -50,7 +50,7 @@ Para o cálculo do patrimônio futuro foi utilizada a função financeira:
 
 A função VF permite calcular o valor futuro de uma série de aportes considerando uma taxa de rendimento periódica.
 
-<img src="images\imagem2.png">
+<img src="images\Imagem2.png">
 
 A aplicação possui uma área destinada à distribuição de um aporte mensal de acordo com quatro perfis:
 
@@ -66,7 +66,7 @@ A planilha retorna automaticamente:
 Percentual sugerido para cada tipo de investimento;
 Valor correspondente do aporte mensal.
 
-<img scr="images\imagem3.png">
+<img scr="images\Imagem3.png">
 
 A aplicação também apresenta uma distribuição específica para Fundos Imobiliários.
 
