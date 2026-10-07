@@ -8,4 +8,4 @@ Irei abordar diferentes temas e problemas utilizando principalmente as ferrament
 
 Sinta-se à vontade para tirar dúvidas, compartilhar ideias, sugestões ou melhorias. 
 
-<a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
+<a href="https://www.linkedin.com/in/thais-cabral-489182198/" target="_blank">Meu Linkedin</a>
