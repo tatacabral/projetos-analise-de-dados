@@ -106,5 +106,5 @@ Aplicação prática / Projeto de portfólio
 Tema:
 Organização financeira e simulação de Imposto de Renda.
 
-<a href="https://www.linkedin.com/in/thais-cabral-489182198/">Meu Linkedin</a>
+<a href="https://www.linkedin.com/in/thais-cabral-489182198/" target="_blank">Meu Linkedin</a>
  
