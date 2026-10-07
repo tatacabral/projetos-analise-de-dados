@@ -8,7 +8,9 @@ O projeto também me permitiu aplicar conceitos de análise de dados, visualiza�
 
 Mais um projeto concluído na minha jornada de aprendizado em Dados e Inteligência Artificial. 
 
-<a href="https://tatacabral.github.io/projetos-analise-de-dados/dashboard_porsche/index.html">Clique Aqui Para Acessar o Dashboard</a>
+<a href="https://tatacabral.github.io/projetos-analise-de-dados/dashboard_porsche/index.html" target="_blank">Clique Aqui Para Acessar o Dashboard</a>
 
 ### Imagem do Dashboard
 <img src="Imagens\Imagem1_dashboard.png">
+
+<a href="https://www.linkedin.com/in/thais-cabral-489182198/" target="_blank">Meu Linkedin</a>
