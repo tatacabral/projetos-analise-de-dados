@@ -66,7 +66,7 @@ A planilha retorna automaticamente:
 Percentual sugerido para cada tipo de investimento;
 Valor correspondente do aporte mensal.
 
-<img scr="images\Imagem3.png">
+<img src="images\Imagem3.png">
 
 A aplicação também apresenta uma distribuição específica para Fundos Imobiliários.
 
